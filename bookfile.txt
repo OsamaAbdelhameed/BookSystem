@@ -1,0 +1,10 @@
+Discrete mathematics with applications/Susanna S. Epp/Mathematics/1 16 45.8
+Systems analysis and design/Alan Dennis/System analysis/2    8    84.7
+Computer Organization and Design/David A Patterson/Operating system/3    28    58.3
+Design Patterns: Elements of Reusable Object-Oriented Software/Erich Gamma/Software design/4    13    37.7
+Object Oriented Programming in Java/Rick Halterman/Software implementation/5    5    33.5
+Game Programming Patterns/Robert Nystrom/Software design/6    22    28.2
+Guide to NoSQL with Azure Cosmos DB/Gaston C. Hillar/Database/7    17    17.6
+Bitcoin and Cryptocurrency Technologies/Arvind Narayanan/Blockchain/8    45    30.5
+Ubuntu 20.04 Essentials/Neil Smyth/Operating system/9    31    50.0
+New Applications of Artificial Intelligence/Pedro Ponce/Artificial Intelligence/10    4    62.8
